@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "399459845426",
+    "project_id": "arcane-boulder-411919",
+    "storage_bucket": "arcane-boulder-411919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399459845426:android:930d81ec8799ab46e0032b",
+        "android_client_info": {
+          "package_name": "com.example.alpine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399459845426-kn18lqjjehdlru104e78evti14qpq7ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alpine",
+            "certificate_hash": "0db42c920c06b1f550d9c74110f9421b675e8f82"
+          }
+        },
+        {
+          "client_id": "399459845426-85a9q3jgnh65f057taddi8rk3mprdnvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDofQJ0P7Ob4Rk2WJ-QfF1BR-0qlm0swoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399459845426-85a9q3jgnh65f057taddi8rk3mprdnvd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "399459845426-c0pptr0mfs0c7go7qlkf86q1k43d1vjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.alpine"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
